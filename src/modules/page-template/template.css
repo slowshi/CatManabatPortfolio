@@ -7,11 +7,12 @@
  }
 
  #container {
+  margin:auto;
   display: flex;
   padding: 1.25rem;
   width: 100%;
   flex-flow: wrap;
-  max-width: 1233px;
+  max-width: 1200px;
 }
 
 #pageWrapper {
@@ -36,7 +37,7 @@
 }
 
 
-@media (min-width: 800px) {
+@media (min-width: 768px) {
   #container {
     padding: 2.5rem;
   }

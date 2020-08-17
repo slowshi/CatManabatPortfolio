@@ -10,11 +10,11 @@ class PageTemplateSdo extends Sdo {
 
   @state()
   routes = [
-    // {
-    //   label: 'Writing',
-    //   link: '/writing/',
-    //   group: 'writing'
-    // },
+    {
+      label: 'Writing',
+      link: '/writing/',
+      group: 'writing'
+    },
     {
       label: 'About',
       link: '/about/',
