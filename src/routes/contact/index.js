@@ -1,3 +1,8 @@
+/**
+ * @route /contact/
+ * @title Cat Matabat | Contact
+ * @prerender false
+ */
 import styles from './template.css';
 import template from './template';
 import {AoflElement, customElement} from '@aofl/element';

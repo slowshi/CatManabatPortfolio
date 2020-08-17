@@ -1,8 +1,6 @@
-/**!
- * @aoflComponent
- */
-/* @import url('../../../../templates/main/css/index.css'); */
+/*! *@aofl-component */
+@import url("../../template/main/css/index.css");
 
 :host {
-  display: inline-block;
+display: block;
 }

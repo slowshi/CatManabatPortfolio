@@ -1,3 +1,6 @@
+import '../../modules/page-template';
 export default (ctx, html) => html`
-  Contact content :)
+<page-template>
+   <h1 class="text-center">Contact Me</h1>
+</page-template>
 `;

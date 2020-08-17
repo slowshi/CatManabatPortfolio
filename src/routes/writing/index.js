@@ -1,3 +1,8 @@
+/**
+ * @route /writing/
+ * @title Cat Matabat | Writing
+ * @prerender false
+ */
 import styles from './template.css';
 import template from './template';
 import {AoflElement, customElement} from '@aofl/element';
