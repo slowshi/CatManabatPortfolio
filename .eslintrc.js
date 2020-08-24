@@ -29,5 +29,5 @@ const config = {
       aoflDevtools: true
     }
   };
-  
+
   module.exports = config;
