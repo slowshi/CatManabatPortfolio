@@ -272,4 +272,5 @@ __build
 __build_tests
 api-docs
 logs
+docs
 # node linux macos windows phpstorm sublimetext visualstudiocode
